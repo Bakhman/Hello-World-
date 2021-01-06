@@ -1,2 +1,2 @@
-# Hello-World-
-Just another repository
+# health_checks
+Script this check health of my computers 
