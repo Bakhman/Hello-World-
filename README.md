@@ -1,2 +1,2 @@
 # health_checks
-Script this check health of my computers 
+Script that check the health of my computers 
